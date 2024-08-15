@@ -1,3 +1,1 @@
-# Mostafa-s-common-core-at-42
-
-Hey
+# My 42's common core
